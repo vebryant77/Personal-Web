@@ -1,0 +1,16 @@
+.navbar-brand {
+    font-family: viga;
+    font-size: 30px;
+    color:white;
+}
+
+.head {
+    text-align: center;
+}
+
+.jumbotron {
+    padding: 2rem 1rem;
+    background-image: url(./Image/indexwalpapper.jpg);
+    background-size: 100%;
+    position: relative;
+}

@@ -1,0 +1,39 @@
+.head {
+    background-attachment: scroll;
+    background-image: url(./image/headbackground.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    padding-top: 0rem;
+    position:sticky;
+}
+
+.header{
+    color: white;
+    font-family: sans-serif;
+    font-size: 50px;
+    text-align: center;
+    font-family: OCR A std, monospace;
+}
+
+.body {
+    font-family: sans-serif;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+}
+
+.kotak1 {
+    background-color: white;
+    width: 50%;
+    height: 5%;
+    position: relative;
+    text-align: center;
+}
+
+.kotak2 {
+    background-color: white;
+    width: 2px;
+    height: 5px;
+    position: relative;
+    text-align: center;
+}
